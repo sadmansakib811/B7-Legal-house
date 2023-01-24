@@ -25,3 +25,10 @@
 .carousel-inner .item {
     height: 400px;  /* add this */
   }
+
+ .btn{
+ background-color: #B68C5A;
+  }
+  button{
+    background-color: #B68C5A;
+  }
