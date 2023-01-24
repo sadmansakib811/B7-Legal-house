@@ -1,0 +1,25 @@
+.card1{
+    border-top: 0;
+    
+}
+
+.leftcards{
+    border-left: 0;
+}
+
+.rightcards{
+    border-right: 0;
+}
+
+.middlecard{
+    background:  linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+
+.bottomcard{
+    border-bottom: 0;
+}
+
+.icon-arrow{
+   color:  #B68C5A; 
+}
+
