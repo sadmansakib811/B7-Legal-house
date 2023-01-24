@@ -22,4 +22,6 @@
 .icon-arrow{
    color:  #B68C5A; 
 }
-
+.carousel-inner .item {
+    height: 400px;  /* add this */
+  }
